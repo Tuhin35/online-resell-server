@@ -1,0 +1,143 @@
+[
+    {
+      
+      "c_id": 1,
+      "guarantee": "2 years",
+      "Company":"sony",
+      "price": 20000,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Tv",
+      "image": "https://i.ibb.co/xSG73Xp/tvc1-1.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 120
+      }
+    },
+    {
+      
+      "c_id": 1,
+      "guarantee":"1 years",
+      "Company":"LG",
+      "price": 25000,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Tv",
+      "image": "https://i.ibb.co/S39V2wq/tvc2.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 120
+      }
+    },
+    
+    {
+      
+      "c_id": 1,
+      "guarantee": "1 years",
+      "Company":"Singer",
+      "price": 18000,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Tv",
+      "image": "https://i.ibb.co/pWjkC02/tvc5.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      
+      "c_id": 3,
+      "guarantee": "6 years",
+      "Company":"Walton",
+      "price": 25000,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "refrigerator",
+      "image": "https://i.ibb.co/H4rLS94/refc3.jpg",
+      "rating": {
+        "rate": 4.0,
+        "count": 120
+      }
+    },
+    {
+      
+      "c_id": 3,
+      "guarantee": "5 years",
+      "Company":"Singer",
+      "price": 30000,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "refrigerator",
+      "image": "https://i.ibb.co/jMwjY7N/refc2.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 120
+      }
+    },
+    {
+      
+      "c_id": 1,
+      "guarantee": "2 years",
+      "Company":"Samsung",
+      "price": 15000,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Tv",
+      "image": "https://i.ibb.co/87ZbRFX/tvc3.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      
+      "c_id": 1,
+      "guarantee": "3 years",
+      "Company":"TCL",
+      "price": 20000,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Tv",
+      "image": "https://i.ibb.co/McwKpTz/tvc4.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      
+      "c_id": 3,
+      "guarantee": "4 years",
+      "Company":"Hitachi",
+      "price": 20000,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "refrigerator",
+      "image": "https://i.ibb.co/Mc7vv0b/refc1.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      
+      "c_id": 2,
+      "guarantee": "2 years",
+      "Company":"Haier",
+      "price": 85000,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Ac",
+      "image": "https://i.ibb.co/HGZRCh4/acc2.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      
+      "c_id": 2,
+      "guarantee": "3 years",
+      "Company":"LG",
+      "price": 75000,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "Ac",
+      "image": "https://i.ibb.co/Z2HZVDX/acc1.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    }
+  ]
